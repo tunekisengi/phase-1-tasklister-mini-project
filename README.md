@@ -8,6 +8,6 @@ How to Customize the Data To customize the character data or add more characters
 
 Styling The provided style.css file adds a pleasant visual design to the web app, making it user-friendly and visually appealing.
 
-Author This Flatacuties web app is created by Martin Wakaba. If you have any questions or suggestions, feel free to reach out to.
+Author This Flatacuties web app is created by James Kisengi. If you have any questions or suggestions, feel free to reach out to.
 
 Enjoy exploring the Flatacuties!
